@@ -6,6 +6,7 @@
 body {
     background-color:white;
     font-family: 'Roboto', sans-serif;
+    background-image: url("Gaming Sujon.png");
 }
 
 .container {
@@ -13,7 +14,6 @@ body {
     background-color: #bdfff3;
     margin: 0 auto;
     padding: 20px;
-    background-image: url("Gaming Sujon.png");
         
 }
 
