@@ -111,7 +111,7 @@ hr {
 }
 
 .bottom-container a {
-    color: rgb(0, 248, 0);
+    color: red;
     text-decoration: none;
     margin: 20px;
 }
